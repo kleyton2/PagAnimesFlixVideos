@@ -1,0 +1,233 @@
+{
+  "categorias": [
+    {
+      "titulo": "Boku no Hero",
+      "link": "",
+      "cor": "green",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Boku no Hero Academia é uma série de mangá escrita e ilustrada por Kōhei Horikoshi.",
+          "url": "https://www.youtube.com/watch?v=_0v0-CflT38"
+        },
+        {
+          "titulo": "My Hero Academia – Opening Theme – The Day",
+          "url": "https://www.youtube.com/watch?v=yu0HjPzFYnY&list=PL1fgdmtGOe2vHHFx95LanY5FdzFulC1Ln"
+        },
+        {
+          "titulo": "My Hero Academia Season 2 – Opening Theme 2 – Sora ni Utaeba",
+          "url": "https://www.youtube.com/watch?v=gw2PNXRPIUc&list=PL1fgdmtGOe2vHHFx95LanY5FdzFulC1Ln&index=3"
+        },
+        {
+          "titulo": "My Hero Academia Season 3 – Opening Theme – ODD FUTURE",
+          "url": "https://www.youtube.com/watch?v=v1YojYU5nPQ&list=PL1fgdmtGOe2vHHFx95LanY5FdzFulC1Ln&index=4"
+        },
+        {
+          "titulo": "My Hero Academia Season 4 – Opening Theme – Polaris",
+          "url": "https://www.youtube.com/watch?v=-t5--PiJsWo&list=PL1fgdmtGOe2vHHFx95LanY5FdzFulC1Ln&index=6"
+        },
+        {
+          "titulo": "Boku No Hero Academia - Midoriya vs Muscular",
+          "url": "https://www.youtube.com/watch?v=-qKt63w7GR8"
+        },
+        {
+          "titulo": "All For One vs One For All ",
+          "url": "https://www.youtube.com/watch?v=gvBc1kIqtwE"
+        },
+        {
+          "titulo": "Midoriya ONE FOR ALL 100% VS Overhaul",
+          "url": "https://www.youtube.com/watch?v=aqjPKog_hf8"
+        }   
+      ]
+    },
+    {
+      "titulo": "Naruto",
+      "cor": "#cf6f00",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Naruto Shippuden Opening 3 | Blue Bird",
+          "url": "https://www.youtube.com/watch?v=aJRu5ltxXjc"
+        },
+        {
+          "titulo": "Naruto Shippuden Opening 1 | Hero's Come Back!! ",
+          "url": "https://www.youtube.com/watch?v=vxvP9zSOL7s"
+        },
+        {
+          "titulo": "Naruto Shippuden Opening 2 | Distance",
+          "url": "https://www.youtube.com/watch?v=mFLZ-I2r3Mc"
+        },
+        {
+          "titulo": "Naruto Shippuden Opening 4 | Closer ",
+          "url": "https://www.youtube.com/watch?v=kmL3EuiiWXM"
+        },
+        {
+          "titulo": "Madara vs Shinobi Alliance | Naruto Shippuden",
+          "url": "https://www.youtube.com/watch?v=zp6xM6Aezmg"
+        },
+        {
+          "titulo": "Kakashi vs Obito - Final Fight",
+          "url": "https://www.youtube.com/watch?v=TmGD7P3uI4M"
+        },
+        {
+          "titulo": "Naruto and Sasuke vs Momoshiki ",
+          "url": "https://www.youtube.com/watch?v=RzClCJFpSoM"
+        }        
+      ]
+    },
+    {
+      "titulo": "Hunter x Hunter",
+      "cor": "#7307cc",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Hunter X Hunter - Opening 1",
+          "url": "https://www.youtube.com/watch?v=faqmNf_fZlE"
+        },
+        {
+          "titulo": "Hunter X Hunter - Opening 2",
+          "url": "https://www.youtube.com/watch?v=qibSkLoSVAA&t=7s"
+        },
+        {
+          "titulo": "Hunter X Hunter - Opening",
+          "url": "https://www.youtube.com/watch?v=CGXZmNECNco"
+        },
+        {
+          "titulo": "Hunter X Hunter - Opening 5",
+          "url": "https://www.youtube.com/watch?v=a-Jttwd1ipI"
+        },
+        {
+          "titulo": "Gon vs Pitou",
+          "url": "https://www.youtube.com/watch?v=99q9j6PRegQ"
+        },
+        {
+          "titulo": " Netero Vs Meruem",
+          "url": "https://www.youtube.com/watch?v=SHJD9XFO1es"
+        },
+        {
+          "titulo": "Kurapika Vs Uvo",
+          "url": "https://www.youtube.com/watch?v=KONBWob_5y0"
+        }
+      ]
+    },
+    {
+      "titulo": "Bleach",
+      "cor": "#819700",
+      "videos": [
+        {
+          "titulo": "Bleach - Opening 1",
+          "url": "https://www.youtube.com/watch?v=dfh4JuzYNpM"
+        },
+        {
+          "titulo": "Bleach Opening 2",
+          "url": "https://www.youtube.com/watch?v=92TEcszkRBw"
+        },
+        {
+          "titulo": "Bleach - Opening 3 | Ichirin no Hana",
+          "url": "https://www.youtube.com/watch?v=2edBgIH7y68"
+        },
+        {
+          "titulo": "Bleach - Opening 4 | Tonight, Tonight, Tonight",
+          "url": "https://www.youtube.com/watch?v=375Axn5QB_s"
+        },
+        {
+          "titulo": "Bleach = Ichigo vs Aizen",
+          "url": "https://www.youtube.com/watch?v=nAYw4ozbiS8"
+        },
+        {
+          "titulo": "Ichigo transformation vs Ulquiorra",
+          "url": "https://www.youtube.com/watch?v=AsVj37d6JwA"
+        },
+        {
+          "titulo": " Kenpachi vs Komamura",
+          "url": "https://www.youtube.com/watch?v=2DjoGLr-rFk"
+        }
+      ]
+    },
+    {
+      "titulo": "Os Cavaleiros do Zodíaco",
+      "cor": "blue",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Os Cavaleiros do Zodíaco Abertura 1",
+          "url": "https://www.youtube.com/watch?v=uLl15h0H0wk"
+        },
+        {
+          "titulo": "ABERTURA - CDZ - Saga de Poseidon",
+          "url": "https://www.youtube.com/watch?v=n92YuYoQTDU"
+        },
+        {
+          "titulo": "ABERTURA - CDZ - Saga de Hades",
+          "url": "https://www.youtube.com/watch?v=vilKAhgMQKY"
+        },
+        {
+          "titulo": "ABERTURA - CDZ - Saga de Hades ",
+          "url": "https://www.youtube.com/watch?v=WeOb0RIdbhQ"
+        },
+        {
+          "titulo": "Shaka de Virgem VS Saga, Camus e Shura ",
+          "url": "https://www.youtube.com/watch?v=YlIs03QN45g"
+        },
+        {
+          "titulo": " Ikki de Fênix VS Juízes do inferno ",
+          "url": "https://www.youtube.com/watch?v=9egm2i3ecC4"
+        },
+        {
+          "titulo": "Shaka De Virgem VS Balder de Hraesvelgr ",
+          "url": "https://www.youtube.com/watch?v=scoWtufz-IA"
+        }
+      ]
+    },
+    {
+      "titulo": "One Piece",
+      "cor": "#f502d4",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "One Piece Opening 1",
+          "url": "https://www.youtube.com/watch?v=jR2cttXnXf4"
+        },
+        {
+          "titulo": "One Piece Opening 2 ",
+          "url": "https://www.youtube.com/watch?v=y5oCaIZ0TVc"
+        },        
+        {
+          "titulo": "One Piece Opening 3",
+          "url": "https://www.youtube.com/watch?v=dNi5bO2KQUU&t=3s"
+        },
+        {
+          "titulo": "One Piece Opening 4",
+          "url": "https://www.youtube.com/watch?v=lZylQYE6YmU&t=5s"
+        },
+        {
+          "titulo": "One Piece - Zoro VS Mihawk legendado",
+          "url": "https://www.youtube.com/watch?v=UO_s2L9Fh20"
+        },
+        {
+          "titulo": "Luffy ( Gear 5 ) vs Kaido",
+          "url": "https://www.youtube.com/watch?v=bF0Qn8XMkWY"
+        },
+        {
+          "titulo": "LUFFY VS DOFLAMINGO",
+          "url": "https://www.youtube.com/watch?v=Q3lElMlrFao"
+        }
+      ]
+    }
+  ]
+}
